@@ -1,0 +1,2 @@
+rootProject.name='Podcast Player'
+include ':app'
